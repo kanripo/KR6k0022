@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 薩婆多部毘尼摩得勒伽
+#+DATE: 2015-08-30 20:41:06.344670
+#+PROPERTY: JUAN 0
